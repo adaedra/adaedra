@@ -1,5 +1,5 @@
 = Thibault “Adædra” Hamel
-:important-caption: ❕
+:important-caption: 📢
 
 Mid-Level Developper based near Paris, France
 
