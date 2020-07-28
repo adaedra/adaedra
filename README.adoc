@@ -1,3 +1,23 @@
 = Thibault “Adædra” Hamel
+:important-caption: ❕
 
-Mid-Level Developper based around Paris, France
+Mid-Level Developper based near Paris, France
+
+[IMPORTANT]
+====
+.I am currently unemployed, and looking for a new job!
+
+I am looking for new experiences in cool companies! Beyond my current background as a full-stack Ruby on Rails developper, I'd be very interested to work in new technologies, such as C# or Rust that I am learning.
+
+I am also looking for relocation to Berlin, Germany, but willing to work remotely for an adaptation period. I will try to be flexible.
+
+You can find my LinkedIn profile https://www.linkedin.com/in/thibault-hamel/[here].
+
+If you think we can work together, don't hesitate to drop me a message at *contact [at] adaedra [dot] eu*!
+====
+
+I have a strong background in *Ruby on Rails* development in both back-end and front-end (where I used mainly React).
+
+I also currently work on C# and Rust for personal projects, as well as doing a bit of systems administration.
+
+I love discovering new technologies and testing new things, as well as being able to transmit knowledge to others.
