@@ -1,2 +1,3 @@
 = Thibault “Adædra” Hamel
-Intermediate Developper based around Paris, France
+
+Mid-Level Developper based around Paris, France
